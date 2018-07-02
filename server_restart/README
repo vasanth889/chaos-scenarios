@@ -1,0 +1,3 @@
+server restart scenario is to Restarting a particular server.
+server_restart shell script on running will first check the Operating system which is been used and will restart a particular server.
+server_stop will stop that particular server.
