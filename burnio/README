@@ -1,0 +1,3 @@
+Through applying the burnio scenario, the instance will effectively have a much slower disk.
+burnio shell script on running will first check the Operating system which is been used and will slower the disk.
+stop_burnio will kill the dd process and /burn file which has been made to run by the burnio shell script.
