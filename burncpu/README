@@ -1,0 +1,3 @@
+Through applying the burncpu scenario, the instance will effectively have a much slower cpu.
+burncpu shell script on running will first check the Operating system which is been used and will slower the cpu.
+stop_burncpu will kill the openssl which has been made to run by the burncpu shell script.
