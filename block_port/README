@@ -1,0 +1,3 @@
+block port scenario uses iptables to block a particular port.
+block_port shell script on running will first check the Operating system which is been used and will block the particular port.
+delete_block will delete the delay.
