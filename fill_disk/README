@@ -1,0 +1,3 @@
+In filldisk scenario a huge file will be written to the root device, filling up the root disk.
+filldisk shell script on running will first check the Operating system which is been used and will fill disk.
+delete will delete nohup.out file and the /burn file.
