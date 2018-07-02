@@ -1,2 +1,3 @@
-random terminate scenario is to kill random instances continuously.
-random_terminate shell script on running will first check the Operating system which is been used and will terminate random instances continuosly .
+random continous terminate scenario is to kill random instances continuously.
+random_continous_terminate shell script on running will first check the Operating system which is been used and will terminate random instances continuosly .
+stop_continous_terminate will kill the running script.
