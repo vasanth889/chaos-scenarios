@@ -1,0 +1,3 @@
+the faildns scenario uses iptables to block port 53 for TCP and UDP, those are the DNS traffic ports.This simulates a failure of your  	DNS servers.
+faildns shell script on running will first check the Operating system which is been used and will block the DNS servers.
+delete_block will delete the port block.
