@@ -1,0 +1,2 @@
+reboot instance scenario is to Restarting the instance.
+reboot instance shell script on running will first check the Operating system which is been used and will restart the particular instance.
