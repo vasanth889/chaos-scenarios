@@ -1,0 +1,2 @@
+random terminate scenario is to kill random instances continuously.
+random_terminate shell script on running will first check the Operating system which is been used and will terminate random instances continuosly .
