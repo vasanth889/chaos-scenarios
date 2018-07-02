@@ -1,0 +1,3 @@
+server delay restart scenario is to Restarting a particular server after a particular time period.
+server_delay_restart shell script on running will first check the Operating system which is been used and will restart a particular server after a particular time period.
+server_stop will stop that particular server.
